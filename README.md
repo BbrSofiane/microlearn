@@ -1,6 +1,6 @@
 # microlearn
 
-A tiny library that implements the four learnable elements of ML from scratch, in ~500 lines of Python.
+A tiny library that implements the four learnable elements of ML from scratch, in ~750 lines of Python.
 
 > "What are the building blocks of all the other machine learning models?"
 > — Christoph Molnar, [*Elements of Machine Learning Algorithms*](https://mindfulmodeler.substack.com/p/points-rules-weights-distributions)
